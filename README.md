@@ -1,5 +1,7 @@
 # Laravel Task Manager
 
+Laravel Task Manager
+
 Ky projekt është një menaxher detyrash i ndërtuar në Laravel, ku secila detyrë është e lidhur me një përdorues të caktuar.
 
 ## Pamje e projektit
